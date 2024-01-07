@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin1230",
+    "database": "onePiece",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
